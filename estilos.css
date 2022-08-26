@@ -17,7 +17,7 @@ body {
 /*---Scrollbar de color - Inicio---*/
 body::-webkit-scrollbar {
     width: 10px;
-    background: #24252a;
+    background: yellow;
 }
 
 body::-webkit-scrollbar-thumb {
